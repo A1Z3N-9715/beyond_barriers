@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1050869517460",
+    "project_id": "beyond-barrier",
+    "storage_bucket": "beyond-barrier.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050869517460:android:b16491cbfa8908814bf881",
+        "android_client_info": {
+          "package_name": "com.example.bb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYQHCk8CLBe-aKpraz1-GiW1Jbu7_g1vQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
